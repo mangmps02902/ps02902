@@ -1,0 +1,16 @@
+C:\Users\Giang\AppData\Local\Temporary Projects\ManGMPS02902\bin\Debug\ManGMPS02902.exe.config
+C:\Users\Giang\Documents\Visual Studio 2015\Projects\ManGMPS02902\ManGMPS02902\bin\Debug\ManGMPS02902.exe.config
+C:\Users\Giang\Documents\Visual Studio 2015\Projects\ManGMPS02902\ManGMPS02902\obj\Debug\ManGMPS02902.vbprojResolveAssemblyReference.cache
+C:\Users\Giang\Documents\Visual Studio 2015\Projects\ManGMPS02902\ManGMPS02902\obj\Debug\ManGMPS02902.frmSanPham.resources
+C:\Users\Giang\Documents\Visual Studio 2015\Projects\ManGMPS02902\ManGMPS02902\obj\Debug\ManGMPS02902.Resources.resources
+C:\Users\Giang\Documents\Visual Studio 2015\Projects\ManGMPS02902\ManGMPS02902\obj\Debug\ManGMPS02902.vbproj.GenerateResource.Cache
+C:\Users\Giang\Documents\Visual Studio 2015\Projects\ManGMPS02902\ManGMPS02902\obj\Debug\ManGMPS02902.xml
+C:\Users\Giang\Documents\Visual Studio 2015\Projects\ManGMPS02902\ManGMPS02902\bin\Debug\ManGMPS02902.exe
+C:\Users\Giang\Documents\Visual Studio 2015\Projects\ManGMPS02902\ManGMPS02902\bin\Debug\ManGMPS02902.pdb
+C:\Users\Giang\Documents\Visual Studio 2015\Projects\ManGMPS02902\ManGMPS02902\bin\Debug\ManGMPS02902.xml
+C:\Users\Giang\Documents\Visual Studio 2015\Projects\ManGMPS02902\ManGMPS02902\obj\Debug\ManGMPS02902.exe
+C:\Users\Giang\Documents\Visual Studio 2015\Projects\ManGMPS02902\ManGMPS02902\obj\Debug\ManGMPS02902.pdb
+C:\Users\Giang\Documents\Visual Studio 2015\Projects\ManGMPS02902\ManGMPS02902\obj\Debug\ManGMPS02902.frmHOADON.resources
+C:\Users\Giang\Documents\Visual Studio 2015\Projects\ManGMPS02902\ManGMPS02902\obj\Debug\ManGMPS02902.frmKhachHang.resources
+C:\Users\Giang\Documents\Visual Studio 2015\Projects\ManGMPS02902\ManGMPS02902\obj\Debug\ManGMPS02902.frmTimKiem.resources
+C:\Users\Giang\Documents\Visual Studio 2015\Projects\ManGMPS02902\ManGMPS02902\obj\Debug\ManGMPS02902.Main.resources
